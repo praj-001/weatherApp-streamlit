@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+plotly==5.15.0
+pyowm==3.3.0
+pytz==2023.3
+streamlit==1.23.1
